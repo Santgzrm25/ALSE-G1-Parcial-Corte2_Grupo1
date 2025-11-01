@@ -1,0 +1,4 @@
+Reporte Académico
+Nombre: Juan Diego | ID: 101 | Programa: 1 | Promedio: 4.22169 | Créditos aprobados: 83
+Nombre: Maria Camila | ID: 102 | Programa: 2 | Promedio: 3.88298 | Créditos aprobados: 94
+Nombre: Luisa Ramirez | ID: 103 | Programa: 1 | Promedio: 4.49412 | Créditos aprobados: 102
